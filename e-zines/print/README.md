@@ -1,4 +1,4 @@
-# Versions for priting
+# Versions for printing
 
 These are modified versions of Phrack, Black Mass and Paged Out for physical printing in **A4 format**
 
